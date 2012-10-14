@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1334945785 source:c:\users\admin\desktop\pneumatic_new\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"adc.h"
+	"adc.c"
+
+1333996847 c:\users\admin\desktop\pneumatic_new\adc.h
+
+1333997298 c:\users\admin\desktop\pneumatic_new\adc.c
+	<avr/io.h>
+	"adc.h"
+

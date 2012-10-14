@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1334939602 source:c:\users\admin\desktop\pneumatic\main.c
+	<avr/io.h>
+	<util/delay.h>
+

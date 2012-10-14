@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "PNEUMATIC_10-10-12", "PNEUMATIC_10-10-12.cproj", "{4B57D504-1847-4AE1-BD47-9A9773A3905C}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CAN_NODE_1", "..\..\CAN_NODE_1\CAN_NODE_1.cproj", "{EAE83382-5813-4849-B192-928E7770E4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B57D504-1847-4AE1-BD47-9A9773A3905C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4B57D504-1847-4AE1-BD47-9A9773A3905C}.Debug|AVR.Build.0 = Debug|AVR
+		{4B57D504-1847-4AE1-BD47-9A9773A3905C}.Release|AVR.ActiveCfg = Release|AVR
+		{4B57D504-1847-4AE1-BD47-9A9773A3905C}.Release|AVR.Build.0 = Release|AVR
+		{EAE83382-5813-4849-B192-928E7770E4A9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EAE83382-5813-4849-B192-928E7770E4A9}.Debug|AVR.Build.0 = Debug|AVR
+		{EAE83382-5813-4849-B192-928E7770E4A9}.Release|AVR.ActiveCfg = Release|AVR
+		{EAE83382-5813-4849-B192-928E7770E4A9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
